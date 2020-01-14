@@ -1,0 +1,20 @@
+{
+  "name": "eit-node-app",
+  "version": "1.0.0",
+  "description": "EIT management app built with vanilla node js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "placide bakala",
+  "license": "ISC"
+}
